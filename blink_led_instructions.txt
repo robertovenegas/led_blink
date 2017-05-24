@@ -1,0 +1,20 @@
+blink_led Instructions.
+
+buy the module: https://www.amazon.com/HiLetgo-Version-NodeMCU-Internet-Development/dp/B010O1G1ES/ref=sr_1_3?ie=UTF8&qid=1495477643&sr=8-3&keywords=esp8266
+
+install arduino ide software:https://www.arduino.cc/en/Main/Software
+
+
+install nodejs: https://nodejs.org/en/
+
+open nodejs command prompt and npm install etherport-client eg. c:\led_blink>npm install etherport-client
+
+open nodejs command prompt and npm install etherport-client eg. c:\led_blink>npm install socket.io
+
+place led_blink folder in your directory of you choice eg. c:\led_blink , c:\users/"your_user_name"\ledblink.
+
+Run the Program on Node.js command prompt  c:\led_blink>node led_blink.js 
+
+open web browser to localhost:80
+
+or on your wifi phone or tablet connected to your network type the host computer's ip 
